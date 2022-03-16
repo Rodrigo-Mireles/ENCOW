@@ -1,0 +1,70 @@
+<!-- Header -->
+<div id="primario" class="container-fluid pb-3 pt-3">
+  <div class="row text-end">
+    <div class="col align-self-end">
+      <encabezado>Acompañar, contruir, actuar</encabezado>
+    </div>
+  </div>
+</div>
+<div class="row">
+<nav id="header"class="navbar navbar-expand-lg navbar-ligth bg-ligth">
+    <!-- <div class="container-fluid"> -->
+    <div class="col-6">
+      <a class="navbar-brand" href="#/">
+        <img src="enco-img/logo-enco.png" alt="  ">
+        En Compañia Efectiva
+        ENCO
+      </a>
+    </div>
+    
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#/nosotros">NOSOTROS</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#/noticias">NOTICIAS</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#/clientes">CLIENTES</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#/contacto">CONTACTO</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#/soluciones">SOLUCIONES</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#/galeria">GALERÍA</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#/alianzas">ALIANZAS</a>
+          </li>
+        </ul>
+      </div>
+    <!-- </div> -->
+</nav>
+</div>
+<img src="enco-img/galeria inicio.png" class="img-fluid" alt=" ">
+<!-- /Header -->
+
+<!-- Footer -->
+<div id="footer" class="container">
+  <div class="row">
+    <div class="col-md-4">
+      <advertencia>Hecho por ENCO algunos derechos reservados</advertencia>
+    </div>
+    <div class="col-md-4 offset-md-4">
+      <!-- <ubicacion>Yascás 215 Col. Narvarte Poniente CDMX</ubicacion> -->
+      <a href="https://www.google.com.mx/maps/place/Rusconi%26Sauza+S.C./@19.3931797,-99.1555881,21z/data=!4m9!1m2!2m1!1sYascás+215+Col.+Narvarte+Poniente+CDMX!3m5!1s0x85d1ff9a490b3733:0x427d155dc35f4946!8m2!3d19.3932426!4d-99.1555483!15sCidZYXNjw6FzIDIxNSBDb2wuIE5hcnZhcnRlIFBvbmllbnRlIENETViSARBjb3Jwb3JhdGVfb2ZmaWNl?hl=es-419&authuser=0" target="_blank">
+        Yascás 215 Col. Narvarte Poniente CDMX
+    </a>
+    </div>
+  </div>
+</div>
+<!-- /Footer -->
+
+
