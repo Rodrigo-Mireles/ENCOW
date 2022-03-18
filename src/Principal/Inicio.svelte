@@ -2,7 +2,7 @@
 <div id="primario" class="container-fluid pb-3 pt-3">
   <div class="row text-end">
     <div class="col align-self-end">
-      <encabezado>Acompañar, contruir, actuar</encabezado>
+      <encabezado>Acompañar, construir, actuar</encabezado>
     </div>
   </div>
 </div>
@@ -11,7 +11,7 @@
     <!-- <div class="container-fluid"> -->
     <div class="col-6">
       <a class="navbar-brand" href="#/">
-        <img src="enco-img/logo-enco.png" alt="  ">
+        <img src="enco-img/ENCO-logo.jpg" alt="  ">
         En Compañia Efectiva
         ENCO
       </a>
@@ -48,7 +48,7 @@
     <!-- </div> -->
 </nav>
 </div>
-<img src="enco-img/galeria inicio.png" class="img-fluid" alt=" ">
+<img src="enco-img/Inicio.jpg" class="img-fluid" alt=" ">
 <!-- /Header -->
 
 <!-- Footer -->
@@ -60,7 +60,7 @@
     <div class="col-md-4 offset-md-4">
       <!-- <ubicacion>Yascás 215 Col. Narvarte Poniente CDMX</ubicacion> -->
       <a href="https://www.google.com.mx/maps/place/Rusconi%26Sauza+S.C./@19.3931797,-99.1555881,21z/data=!4m9!1m2!2m1!1sYascás+215+Col.+Narvarte+Poniente+CDMX!3m5!1s0x85d1ff9a490b3733:0x427d155dc35f4946!8m2!3d19.3932426!4d-99.1555483!15sCidZYXNjw6FzIDIxNSBDb2wuIE5hcnZhcnRlIFBvbmllbnRlIENETViSARBjb3Jwb3JhdGVfb2ZmaWNl?hl=es-419&authuser=0" target="_blank">
-        Yascás 215 Col. Narvarte Poniente CDMX
+        Yacátas 215 Col. Narvarte Poniente CDMX
     </a>
     </div>
   </div>
