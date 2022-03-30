@@ -6,9 +6,8 @@
     </div>
   </div>
 </div>
-<div class="row">
-<nav id="header"class="navbar navbar-expand-lg navbar-ligth bg-ligth">
-    <!-- <div class="container-fluid"> -->
+<nav id="header" class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container-fluid">
     <div class="col-6">
       <a class="navbar-brand" href="#/">
         <img src="enco-img/ENCO-logo.jpg" alt="  ">
@@ -16,40 +15,43 @@
         ENCO
       </a>
     </div>
-    
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-          <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#/nosotros">NOSOTROS</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#/noticias">NOTICIAS</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#/clientes">CLIENTES</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#/contacto">CONTACTO</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#/soluciones">SOLUCIONES</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#/galeria">GALERÍA</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#/alianzas">ALIANZAS</a>
-          </li>
-        </ul>
-      </div>
-    <!-- </div> -->
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#/nosotros">NOSOTROS</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#/noticias">NOTICIAS</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#/clientes">CLIENTES</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#/contacto">CONTACTO</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#/soluciones">SOLUCIONES</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#/galeria">GALERÍA</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#/alianzas">ALIANZAS</a>
+        </li>
+      </ul>
+    </div>
+  </div>
 </nav>
-</div>
-<img src="enco-img/Inicio.jpg" class="img-fluid" alt=" ">
 <!-- /Header -->
+
+<!-- main -->
+<div id="imagen">
+  <img src="enco-img/Inicio.jpg"  class="container-fluid" alt=" ">
+</div>
+<!-- /main-->
 
 <!-- Footer -->
 <div id="footer" class="container">
