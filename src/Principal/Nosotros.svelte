@@ -134,10 +134,10 @@
 <!-- <nosotrosc> -->
 <div id="nosotrosc" class="container-fluid" style="padding-left: 0;">
   <div class="row">
-    <div class="col-12 col-sm-6">
+    <div class="col-12 col-lg-6">
       <img src="enco-img/nosotros/nosotros3.png" class="img-fluid" alt=" ">
     </div>
-    <div class="col-12 col-sm-6">
+    <div class="col-12 col-lg-6">
       <nosotros1c>
         <div class="row">
           <h1><br>En compañía efectiva</h1>
