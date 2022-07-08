@@ -2,7 +2,7 @@
 <div id="primario" class="container-fluid pb-3 pt-3">
   <div class="row text-end">
     <div class="col align-self-end">
-      <encabezado>Acompañar, construir, actuar</encabezado>
+      <!-- <encabezado>Acompañar,construir,actuar</encabezado> -->
     </div>
   </div>
 </div>
@@ -11,7 +11,7 @@
   <div class="container-fluid">
     <a class="navbar-brand" href="#/">
       <img src="enco-img/ENCO-logo.png" alt="  ">  
-      ENCO
+      En Compañia Efectiva
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -19,9 +19,9 @@
     <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page"  href="#/soluciones">SOLUCIONES</a>
+          <a class="nav-link active" aria-current="page" href="#/nosotros">NOSOTROS</a>
         </li>
-       <!--  <li class="nav-item">
+        <li class="nav-item">
           <a class="nav-link" href="#/noticias">NOTICIAS</a>
         </li>
         <li class="nav-item">
@@ -31,11 +31,14 @@
           <a class="nav-link" href="#/contacto">CONTACTO</a>
         </li>
         <li class="nav-item">
+          <a class="nav-link" href="#/soluciones">SOLUCIONES</a>
+        </li>
+        <li class="nav-item">
           <a class="nav-link" href="#/galeria">GALERÍA</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#/alianzas">ALIANZAS</a>
-        </li> -->
+        </li>
       </ul>
     </div>
   </div>
@@ -156,7 +159,7 @@
         </div>
         <div class="row">
           <h4><br>
-            Nuestros consultores cuentan con más de 10 años de experiencia en el desarro e implementación 
+            Nuestros consultores cuentan con más de 10 años de experiencia en el desarrollo e implementación 
             de soluciones empresariales, nuestros servicios han beneficiado a distintas empresas en 
             diferentes sectores en México.
           </h4>

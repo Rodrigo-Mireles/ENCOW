@@ -2,7 +2,7 @@
 <div id="primario" class="container-fluid pb-3 pt-3">
   <div class="row text-end">
     <div class="col align-self-end">
-      <encabezado>Acompañar, construir, actuar</encabezado>
+      <encabezado>Acompañar Construir Actuar</encabezado>
     </div>
   </div>
 </div>
@@ -21,7 +21,7 @@
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="#/nosotros">NOSOTROS</a>
         </li>
-        <!-- <li class="nav-item">
+        <li class="nav-item">
           <a class="nav-link" href="#/noticias">NOTICIAS</a>
         </li>
         <li class="nav-item">
@@ -29,16 +29,16 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#/contacto">CONTACTO</a>
-        </li> -->
+        </li>
         <li class="nav-item">
           <a class="nav-link" href="#/soluciones">SOLUCIONES</a>
         </li>
-        <!-- <li class="nav-item">
+        <li class="nav-item">
           <a class="nav-link" href="#/galeria">GALERÍA</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#/alianzas">ALIANZAS</a>
-        </li> -->
+        </li>
       </ul>
     </div>
   </div>
@@ -48,6 +48,9 @@
 <!-- main -->
 <div id="imagen">
   <img src="enco-img/Inicio.jpg" class="img-fluid" alt=" ">
+</div>
+<div class="container-fluid">
+  
 </div>
 <!-- /main-->
 

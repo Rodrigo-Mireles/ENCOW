@@ -2,7 +2,7 @@
 <div id="primario" class="container-fluid pb-3 pt-3">
   <div class="row text-end">
     <div class="col align-self-end">
-      <encabezado>Acompañar, construir, actuar</encabezado>
+      <encabezado>Acompañar Construir Actuar</encabezado>
     </div>
   </div>
 </div>
@@ -21,7 +21,7 @@
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="#/nosotros">NOSOTROS</a>
         </li>
-        <!-- <li class="nav-item">
+        <li class="nav-item">
           <a class="nav-link" href="#/noticias">NOTICIAS</a>
         </li>
         <li class="nav-item">
@@ -38,7 +38,7 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#/alianzas">ALIANZAS</a>
-        </li> -->
+        </li>
       </ul>
     </div>
   </div>
@@ -71,8 +71,74 @@
     </div>
   </div>
 </div>
-
 <!-- </nosotrosa> -->
+
+<div id="espacio" class="container-fluid pb-2 pt-2"></div>
+
+<!-- </nosotrosb> -->
+<div id="solucionesb" class="container-fluid" style="padding-left: 0;">
+  <div class="row">
+    <div class="col-12 col-sm-4">
+      <img src="enco-img/soluciones/soluciones2.jpg" class="img-fluid" alt="  ">
+    </div>
+    <div class="col-12 col-sm-6">
+      <soluciones1a>
+        <br>
+        <h3><center><b>GESTIÓN Y DESARROLLO DE TALENTO</b></center></h3>
+        <h4>
+          <ul><br>
+            <li>Reclutamiento y selección enfocado </li><br>
+            <li>Diagnóstico de necesidades de capacitación</li><br>
+            <li>Evaluación  de 360°</li><br>
+            <li>Diseño e implementación de tabuladores de sueldo </li><br>
+            <li>Diseño  e implementación de políticas </li><br>
+            <li>Diseño e implementación de código de ética empresarial</li><br>
+            <li>Sensibilización y adaptación al cambio </li>
+          </ul>
+        </h4>
+      </soluciones1a>
+    </div>
+  </div>
+</div>
+<!-- </nosotrosb> -->
+
+<div id="espacio" class="container-fluid pb-2 pt-2"></div>
+
+<!-- </nosotrosc> -->
+<div id="solucionesc" class="container-fluid" >
+  <div class="row">
+    <br>
+        <h3><center><b>CAPACITACIÓN INTEGRAL</b></center></h3><br>
+        <h4><center><b>Cursos y talleres</b></center></h4>
+  </div>
+  <div class="row">
+    <div class="col-12 col-sm-6">
+      <soluciones1a>
+          <h4>
+          <ul><br>
+            <li>Administración de tiempo</li><br>
+            <li>Productividad laboral en home office</li><br>
+            <li>Plan de vida y carrera</li><br>
+            <li>Reclutamiento y selección de personal</li><br>
+            <li>Trabajo en equipo </li><br>
+            <li>Líderazgo</li><br>
+            <li>Comunicación asertiva</li><br>
+            <li>Aula de oratoria (como hablar en público)</li><br>
+            <li>Disciplina en el trabajo</li><br>
+            <li>Servicio total al cliente</li><br>
+            <li>Calidad en el trabajo</li>
+          </ul>
+        </h4>
+      </soluciones1a>
+    </div>
+    <div class="col-12 col-sm-6">
+      <br><br><br><br>
+      <img src="enco-img/soluciones/soluciones3.jpg" class="rounded float-end" alt="  ">
+    </div>  
+  </div>
+</div>
+<!-- </nosotrosc> -->
+
 <!--   </main> -->
 
 <!-- Footer -->
