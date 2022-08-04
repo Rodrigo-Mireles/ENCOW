@@ -2,14 +2,12 @@
 </script>
 
 <!-- Footer -->
-<div id="footer" class="pb-3 pt-3 sticky-bottom">
+<div class="container-fluid pb-3 pt-3 footer">
     <div class="row">
-        <div class="col-md-4 col-4">
-            <advertencia>
-                <center>Hecho por ENCO algunos derechos reservados</center>
-            </advertencia>
+        <div class="col-md-4 col-4 advertencia">
+            <center>Hecho por ENCO algunos derechos reservados</center>
         </div>
-        <div class="col-md-4 col-4">
+        <div class="col-md-4 col-4 links">
             <center>
                 <i class="bi bi-geo-alt-fill" />
                 <a
@@ -20,7 +18,7 @@
                 </a>
             </center>
         </div>
-        <div class="col-md-4 col-4">
+        <div class="col-md-4 col-4 links">
             <center>
                 <i class="bi bi-facebook" />
                 <a
@@ -35,16 +33,15 @@
 </div>
 
 <!-- /Footer -->
-
 <style>
-    #footer {
+    .footer {
         background: #ffd101;
     }
-    #footer advertencia {
+    .advertencia {
         text-align: left;
         font-size: 17px;
     }
-    #footer a {
+    .footer a {
         text-align: right;
         font-size: 19px;
         color: black;

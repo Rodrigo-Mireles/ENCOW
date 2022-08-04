@@ -1,26 +1,18 @@
 <script>
-  import Header from "../components/Header.svelte";
-  import Footer from "../components/Footer.svelte";
-  let src1 = '/img/soluciones/soluciones1.jpg'
-  let name1 = 'nosotros1'
-  let src2 = '/img/soluciones/soluciones2.jpg'
-  let name2 = 'nosotros2'
-  let src3 = '/img/soluciones/soluciones3.jpg'
-  let name3 = 'nosotros3'
+  let src1 = "/img/soluciones/soluciones1.jpg";
+  let name1 = "nosotros1";
+  let src2 = "/img/soluciones/soluciones2.jpg";
+  let name2 = "nosotros2";
+  let src3 = "/img/soluciones/soluciones3.jpg";
+  let name3 = "nosotros3";
 </script>
-
-<Header />
 
 <!-- <main> -->
 <!-- <solucionesa> -->
 <div id="solucionesa" class="container-fluid" style="padding-left: 0;">
   <div class="row">
     <div class="col-12 col-sm-6">
-      <img
-        src={src1}
-        class="img-fluid"
-        alt={name1}
-      />
+      <img src={src1} class="img-fluid" alt={name1} />
     </div>
     <div class="col-12 col-sm-6">
       <soluciones1a>
@@ -61,11 +53,7 @@
 <div id="solucionesb" class="container-fluid" style="padding-left: 0;">
   <div class="row">
     <div class="col-12 col-sm-4">
-      <img
-        src={src2}
-        class="img-fluid"
-        alt={name2}
-      />
+      <img src={src2} class="img-fluid" alt={name2} />
     </div>
     <div class="col-12 col-sm-6">
       <soluciones1a>
@@ -138,20 +126,13 @@
     </div>
     <div class="col-12 col-sm-6">
       <br /><br /><br /><br />
-      <img
-        src={src3}
-        class="rounded float-end"
-        alt={name3}
-      />
+      <img src={src3} class="rounded float-end" alt={name3} />
     </div>
   </div>
 </div>
 <!-- </nosotrosc> -->
 
 <!--   </main> -->
-
-<Footer />
-
 <style>
   #solucionesa img {
     width: 100%;

@@ -1,11 +1,7 @@
 <script>
-  import Header from "../components/Header.svelte";
-  import Footer from "../components/Footer.svelte";
-  let src = '/img/nosotros/nosotros3.png'
-  let name = 'nosotros3'
+  let src3 = "/img/nosotros/nosotros3.png";
+  let name3 = "nosotros3";
 </script>
-
-<Header />
 
 <!-- main -->
 
@@ -99,7 +95,7 @@
 <div id="nosotrosc" class="container-fluid" style="padding-left: 0;">
   <div class="row">
     <div class="col-12 col-lg-6">
-      <img src={src} class="img-fluid" alt={name} />
+      <img src={src3} class="img-fluid" alt={name3} />
     </div>
     <div class="col-12 col-lg-6">
       <nosotros1c>
@@ -146,17 +142,15 @@
   </div>
 </div>
 <!-- </nosotrosc> -->
+
 <!-- /main-->
-
-<Footer />
-
 <style>
   #nosotrosa {
     margin-right: 0;
     margin-left: 0;
     width: 100%;
     height: 500px;
-    background-image: url(/public/enco-img/nosotros/nosotros1.jpg);
+    background-image: url(/img/nosotros/nosotros1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -166,7 +160,7 @@
     margin-left: 0;
     width: 100%;
     height: 100%;
-    background-image: url(/public/enco-img/nosotros/nosotros2.jpg);
+    background-image: url(/img/nosotros/nosotros2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
   }
