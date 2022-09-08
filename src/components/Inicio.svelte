@@ -6,6 +6,7 @@
 <!-- main -->
 <div>
   <img {src} alt={name} class="principal" />
+  <h1>Hola</h1>
 </div>
 
 <!-- /main-->
